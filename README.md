@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: [MinecraftArchive][MCArchive]
-- 🌱 I’m currently learning: **Python** 
+- 🌱 I’m currently learning: **Python** , **CSS**, **JS**
 - 😄 Pronouns: in bio, what will they learn. /s
 - ⚡ Fun fact: I suck at coding
 
