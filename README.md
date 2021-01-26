@@ -8,6 +8,7 @@
 #
   <img align="left" alt="Ozzymand's Github Stats" src="https://github-readme-stats.ozzymand.vercel.app/api?username=Ozzymand&show_icons=true&hide_border=true&theme=bear" /> 
 
+  [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 <!-- the links and such -->
 
 [MCArchive]: https://github.com/Ozzymand/MinecraftArchive
